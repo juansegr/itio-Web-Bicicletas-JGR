@@ -1,2 +1,1 @@
-# itio-Web-Bicicletas-JGR
-Sitio web estático de tienda ficticia de bicicletas desarrollado con HTML, CSS y Bootstrap 5.
+T_HtmlyCSS_Juan_Giraldo/T_HtmlyCSS_Juan_Giraldo/Index.html
